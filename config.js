@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: '안녕하세요! 내가 하린 님친',
+    introTitle: 'Hii',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
     Lạc vào tim anh lẻ loi
